@@ -1,0 +1,8 @@
+cd path/to/ai-conflict-coach
+git init
+git add .
+git commit -m "First version of my AI SaaS project"
+https://github.com/muqueetasif-sys/ai-conflict-coach.git
+git remote add origin https://github.com/muqueetasif-sys/ai-conflict-coach.git
+git branch -M main
+git push -u origin main
